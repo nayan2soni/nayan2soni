@@ -4,7 +4,7 @@
 
 - 🌱 I’m a B.Tech student at SRM Instiute of Science and Technology, Chennai.
 - 👀 Languages/Tools I know are C, Python, Shell programming (bash), Java, C#, c++, c, python MongoDB, sql, html, css, ExpressJS, ReactJS, NodeJS, typescript.
-- 💞️ I’m an avid learner interested in Aull Stack Web Development 
+- 💞️ I’m an avid learner interested in Full Stack Web Development 
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'nayansoni306@gmail.com'.
 - 📫Lets Connect through <a href="https://www.linkedin.com/in/nayansoni">LinkedIn</a>.
