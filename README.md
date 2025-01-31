@@ -3,12 +3,15 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Nayan Soni!</h2>
 
 - 🌱 I’m a B.Tech student at SRM Instiute of Science and Technology, Chennai.
-- 👀 Languages/Tools I know are C, Python, Shell programming (bash), Java, C#, c++, c, python MongoDB, sql, html, css, ExpressJS, ReactJS, NodeJS, typescript.
 - 💞️ I’m an avid learner interested in Full Stack Web Development 
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'nayansoni306@gmail.com'.
 - 📫Lets Connect through <a href="https://www.linkedin.com/in/nayansoni">LinkedIn</a>.
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/svaraan_tk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/svaraankumar) 
+
+# 💻 Tech Stack:
 ### ⚙️ &nbsp;Nayan's GitHub Analytics
 <p align="center">
 <a href="https://github.com/nayan2soni">
