@@ -9,7 +9,7 @@
 - 📫 You can reach me by my email address 'nayansoni306@gmail.com'.
 - 📫Lets Connect through <a href="https://www.linkedin.com/in/nayansoni">LinkedIn</a>.
 
-### ⚙️ &nbsp;Raj's GitHub Analytics
+### ⚙️ &nbsp;Nayan's GitHub Analytics
 <p align="center">
 <a href="https://github.com/nayan2soni">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nayan2soni&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
