@@ -14,6 +14,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nayan2soni&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nayan2soni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
